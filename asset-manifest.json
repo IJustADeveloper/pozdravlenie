@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pozdravlenie/static/css/main.d5fc26c6.css",
+    "main.js": "/pozdravlenie/static/js/main.49a501b3.js",
+    "static/js/787.ce6ceece.chunk.js": "/pozdravlenie/static/js/787.ce6ceece.chunk.js",
+    "static/media/Genshin_Impact.ttf": "/pozdravlenie/static/media/Genshin_Impact.1f6e9f5930ddc1ce5c68.ttf",
+    "static/media/night_sky.jpg": "/pozdravlenie/static/media/night_sky.c657150d312f5f75a219.jpg",
+    "static/media/logo.svg": "/pozdravlenie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pozdravlenie/index.html",
+    "main.d5fc26c6.css.map": "/pozdravlenie/static/css/main.d5fc26c6.css.map",
+    "main.49a501b3.js.map": "/pozdravlenie/static/js/main.49a501b3.js.map",
+    "787.ce6ceece.chunk.js.map": "/pozdravlenie/static/js/787.ce6ceece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5fc26c6.css",
+    "static/js/main.49a501b3.js"
+  ]
+}
